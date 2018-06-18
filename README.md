@@ -7,4 +7,4 @@ Image with bounding box
 ![picture](https://github.com/dimagrshk/augment-bbx/blob/master/examples/image_before.jpg)
 ### output
 List of images like this  
-![picture](https://github.com/dimagrshk/augment-bbx/blob/master/examples/crop_aug.jpg)
+![picture](https://github.com/dimagrshk/augment-bbx/blob/master/examples/croped_aug.jpg)
